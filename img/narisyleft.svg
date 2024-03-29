@@ -1,0 +1,20 @@
+<svg width="719" height="720" viewBox="0 0 719 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-0.5" y="0.5" width="719" height="719" fill="#FF003D" stroke="black"/>
+<mask id="mask0_1_552" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1" y="0" width="720" height="720">
+<rect x="-0.5" y="0.5" width="719" height="719" fill="#FF003D" stroke="black"/>
+</mask>
+<g mask="url(#mask0_1_552)">
+<rect x="144.201" y="-3.99127" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="-1.52246" y="140.763" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="-1.52246" y="431.237" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="144.201" y="575.991" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="144.201" y="286.483" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="435.641" y="-3.99127" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="289.921" y="140.763" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="581.36" y="140.763" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="435.641" y="285.517" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="289.921" y="431.237" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="581.36" y="431.237" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+<rect x="435.641" y="575.991" width="143.754" height="143.754" fill="#FF5F46" stroke="black"/>
+</g>
+</svg>

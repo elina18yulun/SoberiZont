@@ -1,0 +1,69 @@
+<svg width="360" height="720" viewBox="0 0 360 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_120_94)">
+<rect width="360" height="720" transform="translate(360 720) rotate(-180)" fill="white"/>
+<rect x="359.5" y="719.5" width="359" height="719" transform="rotate(-180 359.5 719.5)" fill="#7A61E3" stroke="black"/>
+<mask id="mask0_120_94" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="23" width="360" height="720">
+<rect x="359.5" y="742.5" width="359" height="719" transform="rotate(-180 359.5 742.5)" fill="#FF5F46" stroke="black"/>
+</mask>
+<g mask="url(#mask0_120_94)">
+<circle cx="358.5" cy="305.5" r="42" transform="rotate(-180 358.5 305.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="235.5" cy="305.5" r="42" transform="rotate(-180 235.5 305.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="112.5" cy="305.5" r="42" transform="rotate(-180 112.5 305.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="-10.5" cy="305.5" r="42" transform="rotate(-180 -10.5 305.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="301.5" cy="185.5" r="42" transform="rotate(-180 301.5 185.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="178.5" cy="185.5" r="42" transform="rotate(-180 178.5 185.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="55.5" cy="185.5" r="42" transform="rotate(-180 55.5 185.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="344.5" cy="65.5" r="42" transform="rotate(-180 344.5 65.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="221.5" cy="65.5" r="42" transform="rotate(-180 221.5 65.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="98.5" cy="65.5" r="42" transform="rotate(-180 98.5 65.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="-24.5" cy="65.5" r="42" transform="rotate(-180 -24.5 65.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="315.5" cy="665.5" r="42" transform="rotate(-180 315.5 665.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="192.5" cy="665.5" r="42" transform="rotate(-180 192.5 665.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="69.5" cy="665.5" r="42" transform="rotate(-180 69.5 665.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="381.5" cy="545.5" r="42" transform="rotate(-180 381.5 545.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="258.5" cy="545.5" r="42" transform="rotate(-180 258.5 545.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="135.5" cy="545.5" r="42" transform="rotate(-180 135.5 545.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="12.5" cy="545.5" r="42" transform="rotate(-180 12.5 545.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="301.5" cy="425.5" r="42" transform="rotate(-180 301.5 425.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="178.5" cy="425.5" r="42" transform="rotate(-180 178.5 425.5)" fill="#C3A4E3" stroke="black"/>
+<circle cx="55.5" cy="425.5" r="42" transform="rotate(-180 55.5 425.5)" fill="#C3A4E3" stroke="black"/>
+</g>
+<path d="M359.359 1L180.5 719.929L1.6387 0.999969L359.359 1Z" fill="#FF003D" stroke="black"/>
+<mask id="mask1_120_94" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="23" width="360" height="720">
+<mask id="mask2_120_94" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="23" width="360" height="720">
+<rect x="359.5" y="742.5" width="359" height="719" transform="rotate(-180 359.5 742.5)" fill="#FF5F46" stroke="black"/>
+</mask>
+<g mask="url(#mask2_120_94)">
+<circle cx="358.5" cy="305.5" r="42" transform="rotate(-180 358.5 305.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="235.5" cy="305.5" r="42" transform="rotate(-180 235.5 305.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="112.5" cy="305.5" r="42" transform="rotate(-180 112.5 305.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="-10.5" cy="305.5" r="42" transform="rotate(-180 -10.5 305.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="301.5" cy="185.5" r="42" transform="rotate(-180 301.5 185.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="178.5" cy="185.5" r="42" transform="rotate(-180 178.5 185.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="55.5" cy="185.5" r="42" transform="rotate(-180 55.5 185.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="344.5" cy="65.5" r="42" transform="rotate(-180 344.5 65.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="221.5" cy="65.5" r="42" transform="rotate(-180 221.5 65.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="98.5" cy="65.5" r="42" transform="rotate(-180 98.5 65.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="-24.5" cy="65.5" r="42" transform="rotate(-180 -24.5 65.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="315.5" cy="665.5" r="42" transform="rotate(-180 315.5 665.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="192.5" cy="665.5" r="42" transform="rotate(-180 192.5 665.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="69.5" cy="665.5" r="42" transform="rotate(-180 69.5 665.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="381.5" cy="545.5" r="42" transform="rotate(-180 381.5 545.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="258.5" cy="545.5" r="42" transform="rotate(-180 258.5 545.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="135.5" cy="545.5" r="42" transform="rotate(-180 135.5 545.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="12.5" cy="545.5" r="42" transform="rotate(-180 12.5 545.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="301.5" cy="425.5" r="42" transform="rotate(-180 301.5 425.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="178.5" cy="425.5" r="42" transform="rotate(-180 178.5 425.5)" fill="#D2CCF4" stroke="black"/>
+<circle cx="55.5" cy="425.5" r="42" transform="rotate(-180 55.5 425.5)" fill="#D2CCF4" stroke="black"/>
+</g>
+</mask>
+<g mask="url(#mask1_120_94)">
+<path d="M359.56 -0.250002L180.5 717.933L1.43976 -0.250034L359.56 -0.250002Z" fill="#FF5F46" stroke="black"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_120_94">
+<rect width="360" height="720" fill="white" transform="translate(360 720) rotate(-180)"/>
+</clipPath>
+</defs>
+</svg>

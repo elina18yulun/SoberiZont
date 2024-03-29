@@ -1,0 +1,61 @@
+<svg width="360" height="743" viewBox="0 0 360 743" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="23.5" width="359" height="719" fill="#FF5F46" stroke="black"/>
+<mask id="mask0_10_3483" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="360" height="720">
+<rect x="0.5" y="0.5" width="359" height="719" fill="#FF5F46" stroke="black"/>
+</mask>
+<g mask="url(#mask0_10_3483)">
+<circle cx="1.5" cy="437.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="124.5" cy="437.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="247.5" cy="437.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="370.5" cy="437.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="58.5" cy="557.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="181.5" cy="557.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="304.5" cy="557.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="15.5" cy="677.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="138.5" cy="677.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="261.5" cy="677.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="384.5" cy="677.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="44.5" cy="77.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="167.5" cy="77.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="290.5" cy="77.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="-21.5" cy="197.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="101.5" cy="197.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="224.5" cy="197.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="347.5" cy="197.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="58.5" cy="317.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="181.5" cy="317.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="304.5" cy="317.5" r="42" fill="#FF003D" stroke="black"/>
+</g>
+<path d="M0.640492 742L179.5 23.071L358.361 742H0.640492Z" fill="#C3A4E3" stroke="black"/>
+<mask id="mask1_10_3483" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="360" height="720">
+<mask id="mask2_10_3483" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="360" height="720">
+<rect x="0.5" y="0.5" width="359" height="719" fill="#FF5F46" stroke="black"/>
+</mask>
+<g mask="url(#mask2_10_3483)">
+<circle cx="1.5" cy="437.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="124.5" cy="437.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="247.5" cy="437.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="370.5" cy="437.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="58.5" cy="557.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="181.5" cy="557.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="304.5" cy="557.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="15.5" cy="677.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="138.5" cy="677.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="261.5" cy="677.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="384.5" cy="677.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="44.5" cy="77.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="167.5" cy="77.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="290.5" cy="77.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="-21.5" cy="197.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="101.5" cy="197.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="224.5" cy="197.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="347.5" cy="197.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="58.5" cy="317.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="181.5" cy="317.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="304.5" cy="317.5" r="42" fill="#D2CCF4" stroke="black"/>
+</g>
+</mask>
+<g mask="url(#mask1_10_3483)">
+<path d="M179.985 27.0127L358.405 742.629C358.484 742.945 358.245 743.25 357.92 743.25H1.07967C0.754511 743.25 0.515856 742.945 0.594517 742.629L179.015 27.0127C179.141 26.5073 179.859 26.5073 179.985 27.0127Z" fill="#7A61E3" stroke="black"/>
+</g>
+</svg>

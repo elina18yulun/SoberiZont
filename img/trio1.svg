@@ -1,0 +1,69 @@
+<svg width="360" height="720" viewBox="0 0 360 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_60_996)">
+<rect width="360" height="720" fill="white"/>
+<rect x="0.5" y="0.5" width="359" height="719" fill="#FF5F46" stroke="black"/>
+<mask id="mask0_60_996" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-23" width="360" height="720">
+<rect x="0.5" y="-22.5" width="359" height="719" fill="#FF5F46" stroke="black"/>
+</mask>
+<g mask="url(#mask0_60_996)">
+<circle cx="1.5" cy="414.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="124.5" cy="414.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="247.5" cy="414.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="370.5" cy="414.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="58.5" cy="534.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="181.5" cy="534.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="304.5" cy="534.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="15.5" cy="654.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="138.5" cy="654.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="261.5" cy="654.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="384.5" cy="654.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="44.5" cy="54.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="167.5" cy="54.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="290.5" cy="54.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="-21.5" cy="174.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="101.5" cy="174.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="224.5" cy="174.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="347.5" cy="174.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="58.5" cy="294.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="181.5" cy="294.5" r="42" fill="#FF003D" stroke="black"/>
+<circle cx="304.5" cy="294.5" r="42" fill="#FF003D" stroke="black"/>
+</g>
+<path d="M0.640614 719L179.5 0.0710318L358.361 719H0.640614Z" fill="#C3A4E3" stroke="black"/>
+<mask id="mask1_60_996" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-23" width="360" height="720">
+<mask id="mask2_60_996" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-23" width="360" height="720">
+<rect x="0.5" y="-22.5" width="359" height="719" fill="#FF5F46" stroke="black"/>
+</mask>
+<g mask="url(#mask2_60_996)">
+<circle cx="1.5" cy="414.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="124.5" cy="414.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="247.5" cy="414.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="370.5" cy="414.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="58.5" cy="534.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="181.5" cy="534.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="304.5" cy="534.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="15.5" cy="654.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="138.5" cy="654.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="261.5" cy="654.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="384.5" cy="654.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="44.5" cy="54.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="167.5" cy="54.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="290.5" cy="54.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="-21.5" cy="174.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="101.5" cy="174.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="224.5" cy="174.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="347.5" cy="174.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="58.5" cy="294.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="181.5" cy="294.5" r="42" fill="#D2CCF4" stroke="black"/>
+<circle cx="304.5" cy="294.5" r="42" fill="#D2CCF4" stroke="black"/>
+</g>
+</mask>
+<g mask="url(#mask1_60_996)">
+<path d="M0.439699 720.25L179.5 2.06683L358.56 720.25H0.439699Z" fill="#7A61E3" stroke="black"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_60_996">
+<rect width="360" height="720" fill="white"/>
+</clipPath>
+</defs>
+</svg>
